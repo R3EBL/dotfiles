@@ -1,0 +1,49 @@
+#import = [ "/home/user0/.cache/wal/colors-alacritty.toml"]
+
+
+[font.normal]
+family = "SF Mono"
+style="Medium"
+
+[font.bold]
+family = "SF Mono"
+style="Bold"
+
+
+[font]
+size=12
+
+[scrolling]
+history = 1000
+multiplier = 3
+
+[window]
+dimensions = { columns = 84, lines=24}
+#opacity=0.955
+
+[colors]
+cursor = { text = "#ffffff", cursor = "#929292"}
+#cursor = { text = "#000000", cursor = "#F8D937"}
+
+
+[colors.normal]
+black   = "#2e2e2e"
+red     = "#E02D2D"
+green   = "#00c700"
+yellow  = "#e2d200"
+blue    = "#0062d1"
+magenta = "#c400c4"
+cyan    = "#00c8c8"
+white   = "#d0d0d0"
+
+[colors.bright]
+black   = "#7f7f7f"
+red     = "#ff4c4c"
+green   = "#00ff00"
+yellow  = "#ffff00"
+blue    = "#4c94f2"
+magenta = "#ff00ff"
+cyan    = "#00ffff"
+white   = "#ffffff"
+
+
